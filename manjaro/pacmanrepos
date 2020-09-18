@@ -1,0 +1,5 @@
+# AUTO-SCRIPT
+[herecura]
+Server = https://repo.herecura.be/$repo/$arch
+[chaotic-aur]
+Server = http://chaotic.bangl.de/$repo/x86_64
