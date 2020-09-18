@@ -4,8 +4,7 @@
 rm -rf /tmp/linux-install
 mkdir /tmp/linux-install
 cd /tmp/linux-install
-curl -fLo archive.zip https://github.com/lucalaissue/manjaro-install-script/archive/master.zip
-unzip archive.zip
+curl -L https://github.com/lucalaissue/manjaro-install-script/archive/master.tar.gz | tar -xz
 cd manjaro-install-script-master
 
 # Install
