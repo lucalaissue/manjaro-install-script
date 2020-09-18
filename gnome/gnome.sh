@@ -6,7 +6,7 @@ gnome-extensions enable workspace-indicator@gnome-shell-extensions.gcampax.githu
 
 gsettings set org.gnome.desktop.interface gtk-theme "Kripton"
 gsettings set org.gnome.shell.extensions.user-theme name "Kripton"
-gsettings set org.gnome.desktop.interface icon-theme "Tela-grey-dark"
+gsettings set org.gnome.desktop.interface icon-theme "Tela-grey"
 gsettings set org.gnome.desktop.interface cursor-theme "volantes_cursors"
 
 gsettings set org.gnome.shell.app-switcher current-workspace-only true
