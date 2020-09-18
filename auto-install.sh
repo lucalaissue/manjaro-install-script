@@ -15,8 +15,8 @@ cd ../snap
 sudo sh install-snaps.sh
 cd ../vim
 sh install-vim.sh
-cd ../gnome
-bash gnome.sh
+cd ..
+bash gnome/gnome.sh
 
 # Cleanup
 cd ~
