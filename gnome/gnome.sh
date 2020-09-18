@@ -1,5 +1,5 @@
-cp -r ./gnome/_themes ~/.themes
-cp -r ./gnome/_icons ~/.icons
+cp -r ._themes ~/.themes
+cp -r ._icons ~/.icons
 
 gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com
 gnome-extensions enable workspace-indicator@gnome-shell-extensions.gcampax.github.com
