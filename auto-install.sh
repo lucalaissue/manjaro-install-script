@@ -16,7 +16,3 @@ cd ../vim
 sh install-vim.sh
 cd ../gnome
 bash gnome.sh
-
-# Cleanup
-cd ~
-rm -r /tmp/linux-install
